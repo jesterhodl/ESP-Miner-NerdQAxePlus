@@ -14,6 +14,7 @@ The web interface uses **Angular i18n** with **ngx-translate** to manage multi-l
 - 🇩🇪 **German (de)**
 - 🇮🇹 **Italian (it)**
 - 🇷🇴 **Romanian (ro)**
+- 🇵🇱 **Polish (pl)**
 
 ## File Structure
 
@@ -24,7 +25,8 @@ src/assets/i18n/
 ├── es.json    # Spanish
 ├── de.json    # German
 ├── it.json    # Italian
-└── ro.json    # Romanian
+├── ro.json    # Romanian
+└── pl.json    # Polish
 ```
 
 ## Translation Key Structure
